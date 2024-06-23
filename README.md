@@ -10,6 +10,12 @@
 
 ###
 
+<h2 align="center">Coding Platforms</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <a href="https://leetcode.com/kartik3y_ag/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=black&style=for-the-badge" height="40" alt="stackoverflow logo"  />
@@ -24,6 +30,10 @@
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codesandbox&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="center">TechStacks</h2>
 
 ###
 
@@ -76,11 +86,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/D3vilGhost/D3vilGhost/output/snake.svg" alt="Snake animation" />
 
 ###
