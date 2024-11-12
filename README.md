@@ -20,9 +20,6 @@
   <a href="https://leetcode.com/kartik3y_ag/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=FE7A16&logoColor=white&labelColor=black&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/kartik3yAg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://codeforces.com/profile/devil_ghost" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeForces&logo=codeforces&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
   </a>
